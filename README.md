@@ -29,7 +29,7 @@ Russian* 💙
 ### 💻 Tech Stack
 - **HTML5**
 - **CSS3 (Glassmorphism + Responsive Design)**
-- **JavaScript (DOM Manipulation + LocalStorage)**
+- **JavaScript (DOM Manipulation + Loop + LocalStorage)**
 
 ---
 
