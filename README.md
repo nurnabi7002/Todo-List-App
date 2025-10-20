@@ -60,5 +60,5 @@ so your list remains even after refreshing the page.
 > “Every task you complete brings you one step closer to mastering your focus —  
 > just like every line of code strengthens your logic.”  
 
-Made with 💙 by **[Nur Nabi Khan](https://github.com/nurnabi7002)**  
+Made with by **[Nur Nabi Khan](https://github.com/nurnabi7002)**  
 ---
