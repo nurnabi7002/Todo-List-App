@@ -21,8 +21,7 @@ Russian* 💙
 - ✅ Mark tasks as completed  
 - ❌ Delete individual tasks  
 - 🧹 Clear all tasks with one click  
-- 💾 Automatically saved in **Local Storage**  
-- 🧠 Fully written manually (no copy-paste)  
+- 💾 Automatically saved in **Local Storage**   
 - 🌈 Elegant glassmorphism UI  
 
 ---
